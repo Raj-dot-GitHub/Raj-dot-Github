@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=raj-dot-github&label=Profile%20views&color=0e75b6&style=flat" alt="raj-dot-github" /> </p>
 
-- 🔭 I’m currently working on the [21 Days Data Science Challenge by DataZen](Raj-dot-GitHub/21_Days_Raj_Sinha)
+- 🔭 I’m currently working on the [21 Days Data Science Challenge by DataZen](https://github.com/Raj-dot-GitHub/21_Days_Raj_Sinha)
 
 - 🌱 I’m currently learning **NLP, Deep Learning**
 
