@@ -5,9 +5,9 @@
 
 - 🔭 I’m currently working on the [Machine Learning Concepts](https://github.com/Raj-dot-GitHub/Machine-Learning-Concepts)
 
-- 🌱 I’m currently learning **NLP, Deep Learning**
+- 🌱 I’m currently learning **Data Science, Machine Learning, NLP & Deep Learning**
 
-- 🤝 I’m looking for help with **Everyone who is eager to work with me**
+- 🤝 I’m looking for help with **Everyone who is eager to work**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Raj-dot-GitHub?tab=repositories](https://github.com/Raj-dot-GitHub?tab=repositories)
 
