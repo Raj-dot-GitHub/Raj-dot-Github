@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=raj-dot-github&label=Profile%20views&color=0e75b6&style=flat" alt="raj-dot-github" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=raj-dot-github" alt="raj-dot-github" /></a> </p>
-
 - 🔭 I’m currently working on the [Machine Learning Concepts](https://github.com/Raj-dot-GitHub/Machine-Learning-Concepts)
 
 - 🌱 I’m currently learning **NLP, Deep Learning**
