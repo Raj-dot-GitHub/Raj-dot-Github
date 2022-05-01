@@ -1,5 +1,5 @@
 <h1 align="center">Hello 👋, I'm Raj Sinha</h1>
-<h3 align="center">A Statistics Undergrad and a Machine Learning Enthusiast!</h3>
+<h3 align="center">A Statistics Graduate From Somaiya University and a Machine Learning Enthusiast!</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=raj-dot-github&label=Profile%20views&color=0e75b6&style=flat" alt="raj-dot-github" /> </p>
 
