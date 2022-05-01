@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=raj-dot-github&label=Profile%20views&color=0e75b6&style=flat" alt="raj-dot-github" /> </p>
 
-- 🔭 I’m currently working on the [Machine Learning Concepts](https://github.com/Raj-dot-GitHub/Machine-Learning-Concepts)
+- 🔭 I’m currently working on the [Data Science & Machine Learning Projects](https://github.com/Raj-dot-GitHub/Data-Science-Machine-Learning-Projects)
 
 - 🌱 I’m currently learning **Data Science, Machine Learning, NLP & Deep Learning**
 
