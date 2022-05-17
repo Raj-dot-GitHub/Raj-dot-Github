@@ -11,7 +11,7 @@
 
 - 🌱 I’m currently learning **Data Science, Machine Learning, NLP & Deep Learning**
 
-- 🤝 I’m looking for help with **Anyone who is eager to work**
+- 🤝 I’m looking for help with **Anyone who is in need**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Raj-dot-GitHub?tab=repositories](https://github.com/Raj-dot-GitHub?tab=repositories)
 
