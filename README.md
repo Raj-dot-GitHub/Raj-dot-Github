@@ -19,6 +19,10 @@
 
 - ⚡ Fun fact **I'm a fun loving guy**
 
+<h3 align="left">My Recent Projects:</h3>
+
+- [IPL Data Analytics.](https://github.com/Raj-dot-GitHub/Data-Science-Machine-Learning-Projects/tree/main/IPL%20Data%20Analysis)
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/raj-sinha-523913195" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="raj-sinha-523913195" height="30" width="40" /></a>
