@@ -21,7 +21,7 @@
 
 <h3 align="left">My Recent Projects:</h3>
 
-- [IPL Data Analytics.](https://github.com/Raj-dot-GitHub/Data-Science-Machine-Learning-Projects/tree/main/IPL%20Data%20Analysis)
+- [IPL Data Analysis.](https://github.com/Raj-dot-GitHub/Data-Science-Machine-Learning-Projects/tree/main/IPL%20Data%20Analysis)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
